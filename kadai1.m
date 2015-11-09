@@ -6,7 +6,7 @@
 
 clear; % 変数のオールクリア
 
-ORG=imread('samplepic.jpg'); % 原画像の入力
+ORG=imread('potter.jpg'); % 原画像の入力
 imagesc(ORG); axis image; % 画像の表示
 xlabel('x');
 ylabel('y');
